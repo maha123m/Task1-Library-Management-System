@@ -1,0 +1,20 @@
+1,The Great Gatsby,F. Scott Fitzgerald,true
+2,To Kill a Mockingbird,Harper Lee,false
+3,1984,George Orwell,true
+4,Pride and Prejudice,Jane Austen,false
+5,The Catcher in the Rye,J.D. Salinger,true
+6,The Hobbit,J.R.R. Tolkien,true
+7,Moby Dick,Herman Melville,false
+8,War and Peace,Leo Tolstoy,true
+9,The Odyssey,Homer,true
+10,Jane Eyre,Charlotte Brontë,false
+11,The Divine Comedy,Dante Alighieri,true
+12,Crime and Punishment,Fyodor Dostoevsky,true
+13,The Brothers Karamazov,Fyodor Dostoevsky,true
+14,Brave New World,Aldous Huxley,true
+15,Wuthering Heights,Emily Brontë,false
+16,Anna Karenina,Leo Tolstoy,true
+17,The Iliad,Homer,true
+18,Don Quixote,Miguel de Cervantes,false
+19,One Hundred Years of Solitude,Gabriel García Márquez,true
+20,The Picture of Dorian Gray,Oscar Wilde,false
