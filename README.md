@@ -22,3 +22,13 @@ concepts and principles, including the SOLID principles.
   3) Liskov Substitution Principle (LSP)
   4) Interface Segregation Principle (ISP)
   5) Dependency Inversion Principle (DIP)
+## Screenshots
+<div>
+  <img src ="https://github.com/user-attachments/assets/7f791c84-389e-4157-8589-dfc8d43725a2" width="900" height="400"> 
+  
+  <img src ="https://github.com/user-attachments/assets/9e5804c9-4323-4836-a7bf-12bdb96ef6d1" width="900" height="400"> 
+  
+  <img src ="https://github.com/user-attachments/assets/329f88c2-6b03-408c-8eca-b8518fb776af" width="900" height="400">  
+ 
+</div>
+
