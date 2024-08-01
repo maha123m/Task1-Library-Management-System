@@ -12,13 +12,13 @@ concepts and principles, including the SOLID principles.
    1) Register, remove, and update member information.
    2) Borrow and return books.
 ### Key OOP Concepts Applied
-  Encapsulation
-  Abstraction
-  Inheritance
-  Polymorphism
+  -Encapsulation
+  -Abstraction
+  -Inheritance
+  -Polymorphism
 ### SOLID Principles
-  Single Responsibility Principle (SRP)
-  Open/Closed Principle (OCP)
-  Liskov Substitution Principle (LSP)
-  Interface Segregation Principle (ISP)
-  Dependency Inversion Principle (DIP)
+  -Single Responsibility Principle (SRP)
+  -Open/Closed Principle (OCP)
+  -Liskov Substitution Principle (LSP)
+  -Interface Segregation Principle (ISP)
+  -Dependency Inversion Principle (DIP)
